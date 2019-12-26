@@ -14,7 +14,7 @@
     }
   ],
   "dependencies": {
-    "log4js": "^6.1.0"
+    "pomelo-logger": "^0.1.7"
   },
   "keywords": [
     "pomelo-json-plugin"
