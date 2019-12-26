@@ -1,0 +1,24 @@
+{
+  "name": "pomelo-json-plugin",
+  "version": "0.0.1",
+  "private": false,
+  "description": "a config data(.json) plugin for pomelo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunmin97/pomelo-json-plugin.git"
+  },
+  "contributors": [
+    {
+      "name": "yunmin",
+      "email": "362279869@qq.com"
+    }
+  ],
+  "dependencies": {
+    "log4js": "^6.1.0"
+  },
+  "keywords": [
+    "pomelo-json-plugin"
+  ],
+  "author": "yunmin",
+  "license": "MIT"
+}
