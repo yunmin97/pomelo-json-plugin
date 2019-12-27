@@ -2,7 +2,7 @@ pomelo-json-plugin
 
 Config data plugin for Pomelo(a fast,scalable,distributed game server framework for Node.js. https://github.com/NetEase/pomelo), it can be used in Pomelo(>=0.7.0).
 
-pomelo-json-plugin is a config data(.json) plugin for Pomelo. pomelo-json-plugin can watch all config files in the given dir and reload the file automatically when it is modified.
+pomelo-json-plugin is a config data(.json) plugin for Pomelo. pomelo-json-plugin can watch all config files in the given dir and reload the file automatically and asynchronous when it is modified. but load all files synchronous when it start.
 
 ##Installation
 
