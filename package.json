@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/yunmin97/pomelo-json-plugin.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "contributors": [
     {
       "name": "yunmin",
